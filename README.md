@@ -30,6 +30,7 @@ Files in the repository:
 * **Sparkify.ipynb-** EDA, data cleaning, feature engineering, modelling
 * **EDA_report.html-** automated EDA report generated with pandas-profiling on the original dataset
 * **user_aggregated_data.html-** automated EDA report generated with pandas-profiling on the aggregated dateset.
+
 Files not in the repository:
 * **mini_sparkify_event_data.json**
 
